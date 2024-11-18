@@ -1,3 +1,3 @@
 # new delta -demo
 
-   This is a demo project
+   This is a delta-demo project,
